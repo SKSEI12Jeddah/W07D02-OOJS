@@ -320,7 +320,7 @@ bear.makeSound(); // Bear barks.
 
 ## Labs
 
-### Make an ATM - Lab (20 minutes)
+### Make an ATM - Lab (30 minutes)
 
 For this exercise you will be creating an ATM class.
 
@@ -346,7 +346,7 @@ Give the `Atm` class a `backupAccount` property that can, optionally, contain a 
 
 > 15 minutes exercise. 5 minutes review.
 
-### Create a `RecordAlbums` Class - Lab (10 minutes)
+### Create a `RecordAlbums` Class - Lab (20 minutes)
 
 It should have the following properties...
 
