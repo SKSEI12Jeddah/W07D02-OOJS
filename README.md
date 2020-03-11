@@ -43,7 +43,7 @@ What's nice about the above code snippet? How does it compare to this...
 > * Readability.
 
 
-## Turn and Talk
+## Object Oriented Programming
 #### How have we been writing code up until this point?
 
 We have been writing **procedural code**, which basically means we are writing and executing code as we need it. We'll define some variables and functions here, maybe some event listeners there. We end up with a lot of separate pieces that contribute to the overall functionality of an application. This goes against the idea of keeping our code DRY, short for _Don't Repeat Yourself_. 
