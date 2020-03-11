@@ -7,12 +7,6 @@
   - Use the `new` keyword to create objects with shared properties
   - Explain the `this` keyword and its scope.
 
-## Preparation
-
-1. Fork and clone
-2. Create a new branch, `training`, for your work and change into it.
-3. Create a new `code` directory and `cd` into it.
-
 ## Opening
 
 We've already gotten exposure to JavaScript objects using object literal notation (i.e., the curly brackets). You might have created a Person object like this:
