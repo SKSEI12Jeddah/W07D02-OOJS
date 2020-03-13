@@ -248,7 +248,7 @@ ES6 classes brings a new syntax for getters and setters on object properties. Ge
 // ES6 get and set
 class Person {
   constructor(name) {
-    this._name = name;
+    this.name = name;
   }
 
   get name() {
@@ -260,7 +260,7 @@ class Person {
   }
 
   walk() {
-    console.log(this._name + ' is walking.');
+    console.log(this.name + ' is walking.');
   }
 }
          
